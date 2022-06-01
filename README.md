@@ -1,1 +1,1 @@
-# JAVA---Student-Registration-Console-Application
+# Run Main Class
